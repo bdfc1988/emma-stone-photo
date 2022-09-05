@@ -96,6 +96,11 @@ h1, h2, h3, h4, h5, h6, p{
     letter-spacing: 5px;
     cursor: pointer;
 }
+
+.brand-name a {
+    color: var(--white);
+}
+
 .navBtn{
     width: 40px;
     height: 40px;
