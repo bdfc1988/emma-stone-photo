@@ -661,9 +661,6 @@ h1, h2, h3, h4, h5, h6, p{
     .header{
         padding-bottom: 30px;
     }
-    .social-icons{
-        display: none;
-    }
     .about-content h3{
         width: 100%;
     }
